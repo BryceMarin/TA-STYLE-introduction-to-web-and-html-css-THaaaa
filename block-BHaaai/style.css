@@ -1,0 +1,41 @@
+body {
+  background-color: #22396A;
+  color: white;
+  margin: 20px 20px 30px 20px;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+.headings {
+  color: #32BB66;
+  margin-top: 40px;
+}
+.introduction {
+  text-align: center;
+}
+#information {
+  font-weight: 400;
+}
+#experience {
+  color: #32BB66;
+  margin-top: 40px;
+  margin-bottom: -20px;
+}
+#skills {
+  color: #32BB66;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.sub-headings {
+  margin-top: 40px;
+}
+.social-media {
+  text-align: center;
+  background-color: #10244D;
+}
+.links {
+  color: #E12550;
+  text-decoration: underline;
+  display: inline-block;
+  padding-right: 20px;
+  font-weight: 500;
+}
